@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "id": "words-egyptian-food",
-  "version": 1,
+  "version": 2,
   "kind": "words",
   "name": {
     "en": "Egyptian food",
@@ -89,6 +89,30 @@
     {
       "en": "Aish baladi",
       "ar": "عيش بلدي"
+    },
+    {
+      "en": "Bamya",
+      "ar": "بامية"
+    },
+    {
+      "en": "Mombar",
+      "ar": "ممبار"
+    },
+    {
+      "en": "Bessara",
+      "ar": "بصارة"
+    },
+    {
+      "en": "Stuffed pigeon",
+      "ar": "حمام محشي"
+    },
+    {
+      "en": "Zalabya",
+      "ar": "زلابية"
+    },
+    {
+      "en": "Meshabek",
+      "ar": "مشبك"
     }
   ]
 }
