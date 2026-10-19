@@ -1,0 +1,102 @@
+{
+  "schema": 1,
+  "id": "words-landmarks",
+  "version": 1,
+  "kind": "words",
+  "name": {
+    "en": "Landmarks",
+    "ar": "معالم"
+  },
+  "emoji": "🗼",
+  "oddOneOut": false,
+  "items": [
+    {
+      "en": "Pyramids of Giza",
+      "ar": "أهرامات الجيزة"
+    },
+    {
+      "en": "Burj Khalifa",
+      "ar": "برج خليفة"
+    },
+    {
+      "en": "Eiffel Tower",
+      "ar": "برج إيفل"
+    },
+    {
+      "en": "Statue of Liberty",
+      "ar": "تمثال الحرية"
+    },
+    {
+      "en": "Great Wall of China",
+      "ar": "سور الصين العظيم"
+    },
+    {
+      "en": "Big Ben",
+      "ar": "ساعة بيج بن"
+    },
+    {
+      "en": "Colosseum",
+      "ar": "الكولوسيوم"
+    },
+    {
+      "en": "Taj Mahal",
+      "ar": "تاج محل"
+    },
+    {
+      "en": "Petra",
+      "ar": "البتراء"
+    },
+    {
+      "en": "Sphinx",
+      "ar": "أبو الهول"
+    },
+    {
+      "en": "Cairo Tower",
+      "ar": "برج القاهرة"
+    },
+    {
+      "en": "Kaaba",
+      "ar": "الكعبة"
+    },
+    {
+      "en": "Leaning Tower of Pisa",
+      "ar": "برج بيزا المائل"
+    },
+    {
+      "en": "Mount Everest",
+      "ar": "جبل إيفرست"
+    },
+    {
+      "en": "Niagara Falls",
+      "ar": "شلالات نياجرا"
+    },
+    {
+      "en": "Sydney Opera House",
+      "ar": "دار أوبرا سيدني"
+    },
+    {
+      "en": "Burj Al Arab",
+      "ar": "برج العرب"
+    },
+    {
+      "en": "Karnak Temple",
+      "ar": "معبد الكرنك"
+    },
+    {
+      "en": "Abu Simbel",
+      "ar": "أبو سمبل"
+    },
+    {
+      "en": "Machu Picchu",
+      "ar": "ماتشو بيتشو"
+    },
+    {
+      "en": "Christ the Redeemer",
+      "ar": "تمثال المسيح الفادي"
+    },
+    {
+      "en": "Stonehenge",
+      "ar": "ستونهنج"
+    }
+  ]
+}

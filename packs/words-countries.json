@@ -1,0 +1,122 @@
+{
+  "schema": 1,
+  "id": "words-countries",
+  "version": 1,
+  "kind": "words",
+  "name": {
+    "en": "Countries",
+    "ar": "دول"
+  },
+  "emoji": "🌍",
+  "oddOneOut": true,
+  "items": [
+    {
+      "en": "Egypt",
+      "ar": "مصر"
+    },
+    {
+      "en": "Saudi Arabia",
+      "ar": "السعودية"
+    },
+    {
+      "en": "UAE",
+      "ar": "الإمارات"
+    },
+    {
+      "en": "Morocco",
+      "ar": "المغرب"
+    },
+    {
+      "en": "Japan",
+      "ar": "اليابان"
+    },
+    {
+      "en": "Brazil",
+      "ar": "البرازيل"
+    },
+    {
+      "en": "Italy",
+      "ar": "إيطاليا"
+    },
+    {
+      "en": "France",
+      "ar": "فرنسا"
+    },
+    {
+      "en": "Turkey",
+      "ar": "تركيا"
+    },
+    {
+      "en": "India",
+      "ar": "الهند"
+    },
+    {
+      "en": "China",
+      "ar": "الصين"
+    },
+    {
+      "en": "Mexico",
+      "ar": "المكسيك"
+    },
+    {
+      "en": "Canada",
+      "ar": "كندا"
+    },
+    {
+      "en": "Australia",
+      "ar": "أستراليا"
+    },
+    {
+      "en": "Germany",
+      "ar": "ألمانيا"
+    },
+    {
+      "en": "Spain",
+      "ar": "إسبانيا"
+    },
+    {
+      "en": "Greece",
+      "ar": "اليونان"
+    },
+    {
+      "en": "Jordan",
+      "ar": "الأردن"
+    },
+    {
+      "en": "Kenya",
+      "ar": "كينيا"
+    },
+    {
+      "en": "Argentina",
+      "ar": "الأرجنتين"
+    },
+    {
+      "en": "Russia",
+      "ar": "روسيا"
+    },
+    {
+      "en": "Thailand",
+      "ar": "تايلاند"
+    },
+    {
+      "en": "Switzerland",
+      "ar": "سويسرا"
+    },
+    {
+      "en": "South Korea",
+      "ar": "كوريا الجنوبية"
+    },
+    {
+      "en": "Oman",
+      "ar": "عمان"
+    },
+    {
+      "en": "Qatar",
+      "ar": "قطر"
+    },
+    {
+      "en": "Lebanon",
+      "ar": "لبنان"
+    }
+  ]
+}

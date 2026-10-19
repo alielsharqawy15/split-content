@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "id": "words-sports",
+  "version": 1,
+  "kind": "words",
+  "name": {
+    "en": "Sports & hobbies",
+    "ar": "رياضة وهوايات"
+  },
+  "emoji": "⚽",
+  "oddOneOut": true,
+  "items": [
+    {
+      "en": "Football",
+      "ar": "كرة قدم"
+    },
+    {
+      "en": "Basketball",
+      "ar": "كرة سلة"
+    },
+    {
+      "en": "Tennis",
+      "ar": "تنس"
+    },
+    {
+      "en": "Swimming",
+      "ar": "سباحة"
+    },
+    {
+      "en": "Chess",
+      "ar": "شطرنج"
+    },
+    {
+      "en": "Cycling",
+      "ar": "ركوب دراجات"
+    },
+    {
+      "en": "Boxing",
+      "ar": "ملاكمة"
+    },
+    {
+      "en": "Volleyball",
+      "ar": "كرة طائرة"
+    },
+    {
+      "en": "Fishing",
+      "ar": "صيد سمك"
+    },
+    {
+      "en": "Skiing",
+      "ar": "تزلج"
+    },
+    {
+      "en": "Karate",
+      "ar": "كاراتيه"
+    },
+    {
+      "en": "Bowling",
+      "ar": "بولينج"
+    },
+    {
+      "en": "Squash",
+      "ar": "اسكواش"
+    },
+    {
+      "en": "Table tennis",
+      "ar": "تنس طاولة"
+    },
+    {
+      "en": "Horse riding",
+      "ar": "ركوب خيل"
+    },
+    {
+      "en": "Diving",
+      "ar": "غطس"
+    },
+    {
+      "en": "Running",
+      "ar": "جري"
+    },
+    {
+      "en": "Golf",
+      "ar": "جولف"
+    },
+    {
+      "en": "Painting",
+      "ar": "رسم"
+    },
+    {
+      "en": "Camping",
+      "ar": "تخييم"
+    },
+    {
+      "en": "Photography",
+      "ar": "تصوير"
+    },
+    {
+      "en": "Cooking",
+      "ar": "طبخ"
+    },
+    {
+      "en": "Dominoes",
+      "ar": "دومينو"
+    },
+    {
+      "en": "Video games",
+      "ar": "بلايستيشن"
+    }
+  ]
+}

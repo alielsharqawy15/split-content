@@ -1,0 +1,130 @@
+{
+  "schema": 1,
+  "id": "words-jobs",
+  "version": 1,
+  "kind": "words",
+  "name": {
+    "en": "Jobs",
+    "ar": "مهن"
+  },
+  "emoji": "👷",
+  "oddOneOut": true,
+  "items": [
+    {
+      "en": "Doctor",
+      "ar": "دكتور"
+    },
+    {
+      "en": "Teacher",
+      "ar": "مدرس"
+    },
+    {
+      "en": "Pilot",
+      "ar": "طيار"
+    },
+    {
+      "en": "Chef",
+      "ar": "شيف"
+    },
+    {
+      "en": "Firefighter",
+      "ar": "رجل إطفاء"
+    },
+    {
+      "en": "Police officer",
+      "ar": "ظابط شرطة"
+    },
+    {
+      "en": "Engineer",
+      "ar": "مهندس"
+    },
+    {
+      "en": "Accountant",
+      "ar": "محاسب"
+    },
+    {
+      "en": "Dentist",
+      "ar": "دكتور أسنان"
+    },
+    {
+      "en": "Farmer",
+      "ar": "فلاح"
+    },
+    {
+      "en": "Photographer",
+      "ar": "مصور"
+    },
+    {
+      "en": "Nurse",
+      "ar": "ممرض"
+    },
+    {
+      "en": "Footballer",
+      "ar": "لاعب كرة"
+    },
+    {
+      "en": "Lawyer",
+      "ar": "محامي"
+    },
+    {
+      "en": "Tour guide",
+      "ar": "مرشد سياحي"
+    },
+    {
+      "en": "Taxi driver",
+      "ar": "سواق تاكسي"
+    },
+    {
+      "en": "Baker",
+      "ar": "خباز"
+    },
+    {
+      "en": "Tailor",
+      "ar": "خياط"
+    },
+    {
+      "en": "Plumber",
+      "ar": "سباك"
+    },
+    {
+      "en": "Electrician",
+      "ar": "كهربائي"
+    },
+    {
+      "en": "Journalist",
+      "ar": "صحفي"
+    },
+    {
+      "en": "Astronaut",
+      "ar": "رائد فضاء"
+    },
+    {
+      "en": "Hairdresser",
+      "ar": "كوافير"
+    },
+    {
+      "en": "Programmer",
+      "ar": "مبرمج"
+    },
+    {
+      "en": "Judge",
+      "ar": "قاضي"
+    },
+    {
+      "en": "Vet",
+      "ar": "دكتور بيطري"
+    },
+    {
+      "en": "Waiter",
+      "ar": "جرسون"
+    },
+    {
+      "en": "Lifeguard",
+      "ar": "منقذ"
+    },
+    {
+      "en": "Architect",
+      "ar": "مهندس معماري"
+    }
+  ]
+}

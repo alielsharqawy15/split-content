@@ -1,0 +1,94 @@
+{
+  "schema": 1,
+  "id": "words-footballers",
+  "version": 1,
+  "kind": "words",
+  "name": {
+    "en": "Footballers",
+    "ar": "لاعبو كرة"
+  },
+  "emoji": "🏆",
+  "oddOneOut": false,
+  "items": [
+    {
+      "en": "Mohamed Salah",
+      "ar": "محمد صلاح"
+    },
+    {
+      "en": "Lionel Messi",
+      "ar": "ليونيل ميسي"
+    },
+    {
+      "en": "Cristiano Ronaldo",
+      "ar": "كريستيانو رونالدو"
+    },
+    {
+      "en": "Kylian Mbappé",
+      "ar": "كيليان مبابي"
+    },
+    {
+      "en": "Erling Haaland",
+      "ar": "إيرلينج هالاند"
+    },
+    {
+      "en": "Neymar",
+      "ar": "نيمار"
+    },
+    {
+      "en": "Karim Benzema",
+      "ar": "كريم بنزيما"
+    },
+    {
+      "en": "Riyad Mahrez",
+      "ar": "رياض محرز"
+    },
+    {
+      "en": "Achraf Hakimi",
+      "ar": "أشرف حكيمي"
+    },
+    {
+      "en": "Mohamed Aboutrika",
+      "ar": "محمد أبو تريكة"
+    },
+    {
+      "en": "Zinedine Zidane",
+      "ar": "زين الدين زيدان"
+    },
+    {
+      "en": "Ronaldinho",
+      "ar": "رونالدينيو"
+    },
+    {
+      "en": "Luka Modrić",
+      "ar": "لوكا مودريتش"
+    },
+    {
+      "en": "Kevin De Bruyne",
+      "ar": "كيفين دي بروين"
+    },
+    {
+      "en": "Robert Lewandowski",
+      "ar": "روبرت ليفاندوفسكي"
+    },
+    {
+      "en": "Sadio Mané",
+      "ar": "ساديو ماني"
+    },
+    {
+      "en": "Pelé",
+      "ar": "بيليه"
+    },
+    {
+      "en": "Diego Maradona",
+      "ar": "دييجو مارادونا"
+    },
+    {
+      "en": "Hossam Hassan",
+      "ar": "حسام حسن"
+    },
+    {
+      "en": "Ahmed Hassan",
+      "ar": "أحمد حسن"
+    }
+  ]
+}

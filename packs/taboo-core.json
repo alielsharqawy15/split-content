@@ -1,0 +1,813 @@
+{
+  "schema": 1,
+  "id": "taboo-core",
+  "version": 1,
+  "kind": "taboo",
+  "name": {
+    "en": "Taboo",
+    "ar": "ممنوع"
+  },
+  "emoji": "🚫",
+  "items": [
+    {
+      "en": {
+        "word": "Pyramids",
+        "forbidden": [
+          "Egypt",
+          "Giza",
+          "Pharaoh",
+          "Triangle"
+        ]
+      },
+      "ar": {
+        "word": "الأهرامات",
+        "forbidden": [
+          "مصر",
+          "الجيزة",
+          "فرعون",
+          "مثلث"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Football",
+        "forbidden": [
+          "Ball",
+          "Goal",
+          "Salah",
+          "Match"
+        ]
+      },
+      "ar": {
+        "word": "كرة القدم",
+        "forbidden": [
+          "كورة",
+          "جون",
+          "صلاح",
+          "ماتش"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Koshari",
+        "forbidden": [
+          "Rice",
+          "Lentils",
+          "Pasta",
+          "Egyptian"
+        ]
+      },
+      "ar": {
+        "word": "الكشري",
+        "forbidden": [
+          "رز",
+          "عدس",
+          "مكرونة",
+          "مصري"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Airport",
+        "forbidden": [
+          "Plane",
+          "Flight",
+          "Passport",
+          "Travel"
+        ]
+      },
+      "ar": {
+        "word": "المطار",
+        "forbidden": [
+          "طيارة",
+          "رحلة",
+          "باسبور",
+          "سفر"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Camel",
+        "forbidden": [
+          "Desert",
+          "Hump",
+          "Ride",
+          "Animal"
+        ]
+      },
+      "ar": {
+        "word": "الجمل",
+        "forbidden": [
+          "صحرا",
+          "سنام",
+          "يركب",
+          "حيوان"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Beach",
+        "forbidden": [
+          "Sea",
+          "Sand",
+          "Swim",
+          "Sun"
+        ]
+      },
+      "ar": {
+        "word": "الشاطئ",
+        "forbidden": [
+          "بحر",
+          "رملة",
+          "عوم",
+          "شمس"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Birthday",
+        "forbidden": [
+          "Cake",
+          "Candles",
+          "Party",
+          "Age"
+        ]
+      },
+      "ar": {
+        "word": "عيد الميلاد",
+        "forbidden": [
+          "تورتة",
+          "شمع",
+          "حفلة",
+          "سن"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Doctor",
+        "forbidden": [
+          "Hospital",
+          "Sick",
+          "Medicine",
+          "Nurse"
+        ]
+      },
+      "ar": {
+        "word": "الدكتور",
+        "forbidden": [
+          "مستشفى",
+          "عيان",
+          "دوا",
+          "ممرضة"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Ramadan",
+        "forbidden": [
+          "Fasting",
+          "Iftar",
+          "Month",
+          "Suhoor"
+        ]
+      },
+      "ar": {
+        "word": "رمضان",
+        "forbidden": [
+          "صيام",
+          "فطار",
+          "شهر",
+          "سحور"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Coffee",
+        "forbidden": [
+          "Drink",
+          "Cup",
+          "Morning",
+          "Caffeine"
+        ]
+      },
+      "ar": {
+        "word": "القهوة",
+        "forbidden": [
+          "مشروب",
+          "فنجان",
+          "الصبح",
+          "بن"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Phone",
+        "forbidden": [
+          "Call",
+          "Mobile",
+          "Screen",
+          "Apps"
+        ]
+      },
+      "ar": {
+        "word": "الموبايل",
+        "forbidden": [
+          "مكالمة",
+          "تليفون",
+          "شاشة",
+          "تطبيقات"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Wedding",
+        "forbidden": [
+          "Bride",
+          "Groom",
+          "Marriage",
+          "Dance"
+        ]
+      },
+      "ar": {
+        "word": "الفرح",
+        "forbidden": [
+          "عروسة",
+          "عريس",
+          "جواز",
+          "رقص"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Teacher",
+        "forbidden": [
+          "School",
+          "Class",
+          "Students",
+          "Lesson"
+        ]
+      },
+      "ar": {
+        "word": "المدرس",
+        "forbidden": [
+          "مدرسة",
+          "فصل",
+          "طلبة",
+          "درس"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Nile",
+        "forbidden": [
+          "River",
+          "Egypt",
+          "Water",
+          "Longest"
+        ]
+      },
+      "ar": {
+        "word": "النيل",
+        "forbidden": [
+          "نهر",
+          "مصر",
+          "مية",
+          "أطول"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Pizza",
+        "forbidden": [
+          "Cheese",
+          "Italian",
+          "Slice",
+          "Oven"
+        ]
+      },
+      "ar": {
+        "word": "البيتزا",
+        "forbidden": [
+          "جبنة",
+          "إيطالي",
+          "شريحة",
+          "فرن"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Rain",
+        "forbidden": [
+          "Water",
+          "Clouds",
+          "Umbrella",
+          "Winter"
+        ]
+      },
+      "ar": {
+        "word": "المطر",
+        "forbidden": [
+          "مية",
+          "سحاب",
+          "شمسية",
+          "شتا"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Lion",
+        "forbidden": [
+          "King",
+          "Jungle",
+          "Roar",
+          "Animal"
+        ]
+      },
+      "ar": {
+        "word": "الأسد",
+        "forbidden": [
+          "ملك",
+          "غابة",
+          "زئير",
+          "حيوان"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Cinema",
+        "forbidden": [
+          "Movie",
+          "Popcorn",
+          "Screen",
+          "Ticket"
+        ]
+      },
+      "ar": {
+        "word": "السينما",
+        "forbidden": [
+          "فيلم",
+          "فشار",
+          "شاشة",
+          "تذكرة"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Kitchen",
+        "forbidden": [
+          "Cook",
+          "Food",
+          "Fridge",
+          "Stove"
+        ]
+      },
+      "ar": {
+        "word": "المطبخ",
+        "forbidden": [
+          "طبخ",
+          "أكل",
+          "تلاجة",
+          "بوتاجاز"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Moon",
+        "forbidden": [
+          "Night",
+          "Sky",
+          "Star",
+          "Full"
+        ]
+      },
+      "ar": {
+        "word": "القمر",
+        "forbidden": [
+          "ليل",
+          "سما",
+          "نجمة",
+          "بدر"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Taxi",
+        "forbidden": [
+          "Car",
+          "Driver",
+          "Yellow",
+          "Ride"
+        ]
+      },
+      "ar": {
+        "word": "التاكسي",
+        "forbidden": [
+          "عربية",
+          "سواق",
+          "أصفر",
+          "مشوار"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Chocolate",
+        "forbidden": [
+          "Sweet",
+          "Brown",
+          "Candy",
+          "Cocoa"
+        ]
+      },
+      "ar": {
+        "word": "الشوكولاتة",
+        "forbidden": [
+          "حلو",
+          "بني",
+          "حلويات",
+          "كاكاو"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Hotel",
+        "forbidden": [
+          "Room",
+          "Sleep",
+          "Stay",
+          "Reception"
+        ]
+      },
+      "ar": {
+        "word": "الفندق",
+        "forbidden": [
+          "أوضة",
+          "نوم",
+          "إقامة",
+          "ريسبشن"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Swimming",
+        "forbidden": [
+          "Pool",
+          "Water",
+          "Sea",
+          "Swimsuit"
+        ]
+      },
+      "ar": {
+        "word": "السباحة",
+        "forbidden": [
+          "حمام سباحة",
+          "مية",
+          "بحر",
+          "مايوه"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Ice cream",
+        "forbidden": [
+          "Cold",
+          "Cone",
+          "Sweet",
+          "Flavour"
+        ]
+      },
+      "ar": {
+        "word": "الآيس كريم",
+        "forbidden": [
+          "ساقع",
+          "بسكوت",
+          "حلو",
+          "طعم"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Guitar",
+        "forbidden": [
+          "Music",
+          "Strings",
+          "Play",
+          "Instrument"
+        ]
+      },
+      "ar": {
+        "word": "الجيتار",
+        "forbidden": [
+          "مزيكا",
+          "أوتار",
+          "يعزف",
+          "آلة"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Desert",
+        "forbidden": [
+          "Sand",
+          "Hot",
+          "Camel",
+          "Dry"
+        ]
+      },
+      "ar": {
+        "word": "الصحرا",
+        "forbidden": [
+          "رملة",
+          "حر",
+          "جمل",
+          "ناشفة"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Police",
+        "forbidden": [
+          "Officer",
+          "Crime",
+          "Siren",
+          "Station"
+        ]
+      },
+      "ar": {
+        "word": "الشرطة",
+        "forbidden": [
+          "ظابط",
+          "جريمة",
+          "سارينة",
+          "قسم"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Eid",
+        "forbidden": [
+          "Holiday",
+          "Eidiya",
+          "Prayer",
+          "Kahk"
+        ]
+      },
+      "ar": {
+        "word": "العيد",
+        "forbidden": [
+          "أجازة",
+          "عيدية",
+          "صلاة",
+          "كحك"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Laptop",
+        "forbidden": [
+          "Computer",
+          "Keyboard",
+          "Screen",
+          "Work"
+        ]
+      },
+      "ar": {
+        "word": "اللابتوب",
+        "forbidden": [
+          "كمبيوتر",
+          "كيبورد",
+          "شاشة",
+          "شغل"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Dentist",
+        "forbidden": [
+          "Teeth",
+          "Doctor",
+          "Pain",
+          "Brush"
+        ]
+      },
+      "ar": {
+        "word": "دكتور الأسنان",
+        "forbidden": [
+          "سنان",
+          "دكتور",
+          "وجع",
+          "فرشة"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Market",
+        "forbidden": [
+          "Buy",
+          "Vegetables",
+          "Shop",
+          "Sell"
+        ]
+      },
+      "ar": {
+        "word": "السوق",
+        "forbidden": [
+          "يشتري",
+          "خضار",
+          "محل",
+          "يبيع"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Train",
+        "forbidden": [
+          "Rails",
+          "Station",
+          "Travel",
+          "Ticket"
+        ]
+      },
+      "ar": {
+        "word": "القطر",
+        "forbidden": [
+          "قضبان",
+          "محطة",
+          "سفر",
+          "تذكرة"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Sunglasses",
+        "forbidden": [
+          "Eyes",
+          "Sun",
+          "Dark",
+          "Wear"
+        ]
+      },
+      "ar": {
+        "word": "النضارة الشمس",
+        "forbidden": [
+          "عينين",
+          "شمس",
+          "غامق",
+          "يلبس"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Tea",
+        "forbidden": [
+          "Drink",
+          "Sugar",
+          "Hot",
+          "Mint"
+        ]
+      },
+      "ar": {
+        "word": "الشاي",
+        "forbidden": [
+          "مشروب",
+          "سكر",
+          "سخن",
+          "نعناع"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Cat",
+        "forbidden": [
+          "Meow",
+          "Pet",
+          "Mouse",
+          "Animal"
+        ]
+      },
+      "ar": {
+        "word": "القطة",
+        "forbidden": [
+          "مياو",
+          "أليف",
+          "فار",
+          "حيوان"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Exam",
+        "forbidden": [
+          "Study",
+          "School",
+          "Grade",
+          "Test"
+        ]
+      },
+      "ar": {
+        "word": "الامتحان",
+        "forbidden": [
+          "مذاكرة",
+          "مدرسة",
+          "درجة",
+          "اختبار"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Fireworks",
+        "forbidden": [
+          "Sky",
+          "Colours",
+          "New Year",
+          "Boom"
+        ]
+      },
+      "ar": {
+        "word": "الألعاب النارية",
+        "forbidden": [
+          "سما",
+          "ألوان",
+          "راس السنة",
+          "فرقعة"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Mosque",
+        "forbidden": [
+          "Pray",
+          "Minaret",
+          "Friday",
+          "Imam"
+        ]
+      },
+      "ar": {
+        "word": "الجامع",
+        "forbidden": [
+          "صلاة",
+          "مئذنة",
+          "الجمعة",
+          "إمام"
+        ]
+      }
+    },
+    {
+      "en": {
+        "word": "Selfie",
+        "forbidden": [
+          "Photo",
+          "Phone",
+          "Camera",
+          "Myself"
+        ]
+      },
+      "ar": {
+        "word": "السيلفي",
+        "forbidden": [
+          "صورة",
+          "موبايل",
+          "كاميرا",
+          "نفسي"
+        ]
+      }
+    }
+  ]
+}

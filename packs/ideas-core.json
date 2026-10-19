@@ -1,0 +1,93 @@
+{
+  "schema": 1,
+  "id": "ideas-core",
+  "version": 1,
+  "kind": "ideas",
+  "name": {
+    "en": "Question ideas",
+    "ar": "أفكار أسئلة"
+  },
+  "emoji": "💡",
+  "items": [
+    {
+      "en": "Where would you usually find it?",
+      "ar": "فين عادةً بتلاقيها؟"
+    },
+    {
+      "en": "Would you take it on a trip?",
+      "ar": "تاخدها معاك في رحلة؟"
+    },
+    {
+      "en": "Is it bigger than a phone?",
+      "ar": "هي أكبر من الموبايل؟"
+    },
+    {
+      "en": "When did you last see one?",
+      "ar": "آخر مرة شفتها كانت إمتى؟"
+    },
+    {
+      "en": "Would kids like it?",
+      "ar": "الأطفال بيحبوها؟"
+    },
+    {
+      "en": "Is it expensive?",
+      "ar": "هي غالية؟"
+    },
+    {
+      "en": "Could you use it every day?",
+      "ar": "ممكن تستخدمها كل يوم؟"
+    },
+    {
+      "en": "What colour comes to mind?",
+      "ar": "أول لون ييجي في بالك إيه؟"
+    },
+    {
+      "en": "Better in summer or winter?",
+      "ar": "أحلى في الصيف ولا الشتا؟"
+    },
+    {
+      "en": "Would your grandmother know it?",
+      "ar": "جدتك تعرفها؟"
+    },
+    {
+      "en": "Would you find it in Egypt?",
+      "ar": "تلاقيها في مصر؟"
+    },
+    {
+      "en": "Can you touch it?",
+      "ar": "حاجة تتلمس؟"
+    },
+    {
+      "en": "Would you give it as a gift?",
+      "ar": "ممكن تديها هدية؟"
+    },
+    {
+      "en": "Is it noisy or quiet?",
+      "ar": "دوشة ولا هادية؟"
+    },
+    {
+      "en": "Morning or evening?",
+      "ar": "الصبح ولا بالليل؟"
+    },
+    {
+      "en": "Would you post it on Instagram?",
+      "ar": "تنزلها على إنستجرام؟"
+    },
+    {
+      "en": "How does it make you feel?",
+      "ar": "بتحسسك بإيه؟"
+    },
+    {
+      "en": "Is it popular in Ramadan?",
+      "ar": "مشهورة في رمضان؟"
+    },
+    {
+      "en": "Alone or with friends?",
+      "ar": "لوحدك ولا مع أصحابك؟"
+    },
+    {
+      "en": "Would you find it at a wedding?",
+      "ar": "تلاقيها في فرح؟"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "schema": 1,
+  "id": "words-movies",
+  "version": 1,
+  "kind": "words",
+  "name": {
+    "en": "Films & series",
+    "ar": "أفلام ومسلسلات"
+  },
+  "emoji": "🎬",
+  "oddOneOut": false,
+  "items": [
+    {
+      "en": "Titanic",
+      "ar": "تايتانيك"
+    },
+    {
+      "en": "The Lion King",
+      "ar": "الأسد الملك"
+    },
+    {
+      "en": "Frozen",
+      "ar": "فروزن"
+    },
+    {
+      "en": "Toy Story",
+      "ar": "حكاية لعبة"
+    },
+    {
+      "en": "Harry Potter",
+      "ar": "هاري بوتر"
+    },
+    {
+      "en": "Spider-Man",
+      "ar": "سبايدر مان"
+    },
+    {
+      "en": "Finding Nemo",
+      "ar": "البحث عن نيمو"
+    },
+    {
+      "en": "Aladdin",
+      "ar": "علاء الدين"
+    },
+    {
+      "en": "Shrek",
+      "ar": "شريك"
+    },
+    {
+      "en": "Home Alone",
+      "ar": "وحدي في المنزل"
+    },
+    {
+      "en": "Jurassic Park",
+      "ar": "الحديقة الجوراسية"
+    },
+    {
+      "en": "Cars",
+      "ar": "سيارات"
+    },
+    {
+      "en": "Kung Fu Panda",
+      "ar": "كونغ فو باندا"
+    },
+    {
+      "en": "Minions",
+      "ar": "المينيونز"
+    },
+    {
+      "en": "Coco",
+      "ar": "كوكو"
+    },
+    {
+      "en": "Batman",
+      "ar": "باتمان"
+    },
+    {
+      "en": "El Limby",
+      "ar": "اللمبي"
+    },
+    {
+      "en": "El Nazer",
+      "ar": "الناظر"
+    },
+    {
+      "en": "Saeedi in the American University",
+      "ar": "صعيدي في الجامعة الأمريكية"
+    },
+    {
+      "en": "Teer Enta",
+      "ar": "طير إنت"
+    },
+    {
+      "en": "The Blue Elephant",
+      "ar": "الفيل الأزرق"
+    },
+    {
+      "en": "Welad Rizk",
+      "ar": "ولاد رزق"
+    },
+    {
+      "en": "Omar & Salma",
+      "ar": "عمر وسلمى"
+    },
+    {
+      "en": "El Kenz",
+      "ar": "الكنز"
+    },
+    {
+      "en": "Askar fel Moaskar",
+      "ar": "عسكر في المعسكر"
+    },
+    {
+      "en": "Ibn El Qunsul",
+      "ar": "ابن القنصل"
+    },
+    {
+      "en": "Kira & El Gin",
+      "ar": "كيرة والجن"
+    },
+    {
+      "en": "Harameya fi KG2",
+      "ar": "حرامية في كي جي تو"
+    }
+  ]
+}

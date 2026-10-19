@@ -1,0 +1,126 @@
+{
+  "schema": 1,
+  "id": "words-animals",
+  "version": 1,
+  "kind": "words",
+  "name": {
+    "en": "Animals",
+    "ar": "حيوانات"
+  },
+  "emoji": "🐪",
+  "oddOneOut": true,
+  "items": [
+    {
+      "en": "Camel",
+      "ar": "جمل"
+    },
+    {
+      "en": "Lion",
+      "ar": "أسد"
+    },
+    {
+      "en": "Elephant",
+      "ar": "فيل"
+    },
+    {
+      "en": "Giraffe",
+      "ar": "زرافة"
+    },
+    {
+      "en": "Penguin",
+      "ar": "بطريق"
+    },
+    {
+      "en": "Dolphin",
+      "ar": "دولفين"
+    },
+    {
+      "en": "Cat",
+      "ar": "قطة"
+    },
+    {
+      "en": "Dog",
+      "ar": "كلب"
+    },
+    {
+      "en": "Horse",
+      "ar": "حصان"
+    },
+    {
+      "en": "Crocodile",
+      "ar": "تمساح"
+    },
+    {
+      "en": "Monkey",
+      "ar": "قرد"
+    },
+    {
+      "en": "Owl",
+      "ar": "بومة"
+    },
+    {
+      "en": "Shark",
+      "ar": "سمكة قرش"
+    },
+    {
+      "en": "Butterfly",
+      "ar": "فراشة"
+    },
+    {
+      "en": "Rabbit",
+      "ar": "أرنب"
+    },
+    {
+      "en": "Kangaroo",
+      "ar": "كنغر"
+    },
+    {
+      "en": "Turtle",
+      "ar": "سلحفاة"
+    },
+    {
+      "en": "Parrot",
+      "ar": "ببغاء"
+    },
+    {
+      "en": "Falcon",
+      "ar": "صقر"
+    },
+    {
+      "en": "Snake",
+      "ar": "ثعبان"
+    },
+    {
+      "en": "Zebra",
+      "ar": "حمار وحشي"
+    },
+    {
+      "en": "Bear",
+      "ar": "دب"
+    },
+    {
+      "en": "Octopus",
+      "ar": "أخطبوط"
+    },
+    {
+      "en": "Chicken",
+      "ar": "فرخة"
+    },
+    {
+      "en": "Donkey",
+      "ar": "حمار"
+    },
+    {
+      "en": "Frog",
+      "ar": "ضفدع"
+    },
+    {
+      "en": "Bee",
+      "ar": "نحلة"
+    },
+    {
+      "en": "Panda",
+      "ar": "باندا"
+    }
+  ]
+}

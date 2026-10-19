@@ -1,0 +1,102 @@
+{
+  "schema": 1,
+  "id": "words-home",
+  "version": 1,
+  "kind": "words",
+  "name": {
+    "en": "Things at home",
+    "ar": "حاجات في البيت"
+  },
+  "emoji": "🛋️",
+  "oddOneOut": true,
+  "items": [
+    {
+      "en": "Fridge",
+      "ar": "تلاجة"
+    },
+    {
+      "en": "Sofa",
+      "ar": "كنبة"
+    },
+    {
+      "en": "Toothbrush",
+      "ar": "فرشة أسنان"
+    },
+    {
+      "en": "Pillow",
+      "ar": "مخدة"
+    },
+    {
+      "en": "Microwave",
+      "ar": "ميكروويف"
+    },
+    {
+      "en": "Mirror",
+      "ar": "مراية"
+    },
+    {
+      "en": "Remote control",
+      "ar": "ريموت"
+    },
+    {
+      "en": "Washing machine",
+      "ar": "غسالة"
+    },
+    {
+      "en": "Umbrella",
+      "ar": "شمسية"
+    },
+    {
+      "en": "Alarm clock",
+      "ar": "منبه"
+    },
+    {
+      "en": "Fan",
+      "ar": "مروحة"
+    },
+    {
+      "en": "Kettle",
+      "ar": "كاتل"
+    },
+    {
+      "en": "Carpet",
+      "ar": "سجادة"
+    },
+    {
+      "en": "Ladder",
+      "ar": "سلم"
+    },
+    {
+      "en": "Candle",
+      "ar": "شمعة"
+    },
+    {
+      "en": "Hair dryer",
+      "ar": "سشوار"
+    },
+    {
+      "en": "Frying pan",
+      "ar": "طاسة"
+    },
+    {
+      "en": "Curtains",
+      "ar": "ستارة"
+    },
+    {
+      "en": "Vacuum cleaner",
+      "ar": "مكنسة كهربائية"
+    },
+    {
+      "en": "Air conditioner",
+      "ar": "تكييف"
+    },
+    {
+      "en": "Key",
+      "ar": "مفتاح"
+    },
+    {
+      "en": "Scissors",
+      "ar": "مقص"
+    }
+  ]
+}

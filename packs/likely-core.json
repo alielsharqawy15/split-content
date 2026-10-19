@@ -1,0 +1,173 @@
+{
+  "schema": 1,
+  "id": "likely-core",
+  "version": 1,
+  "kind": "likely",
+  "name": {
+    "en": "Most likely to",
+    "ar": "مين أكتر واحد"
+  },
+  "emoji": "👑",
+  "items": [
+    {
+      "en": "Who’s most likely to get lost on this trip?",
+      "ar": "مين أكتر واحد ممكن يتوه في الرحلة دي؟"
+    },
+    {
+      "en": "Who’s most likely to be late to everything?",
+      "ar": "مين أكتر واحد بيتأخر على كل حاجة؟"
+    },
+    {
+      "en": "Who’s most likely to forget their passport?",
+      "ar": "مين أكتر واحد ممكن ينسى الباسبور؟"
+    },
+    {
+      "en": "Who’s most likely to order dessert first?",
+      "ar": "مين أكتر واحد يطلب الحلو الأول؟"
+    },
+    {
+      "en": "Who’s most likely to take 100 selfies a day?",
+      "ar": "مين أكتر واحد ياخد 100 سيلفي في اليوم؟"
+    },
+    {
+      "en": "Who’s most likely to fall asleep first tonight?",
+      "ar": "مين أكتر واحد هينام الأول النهارده؟"
+    },
+    {
+      "en": "Who’s most likely to bargain for everything?",
+      "ar": "مين أكتر واحد بيفاصل في كل حاجة؟"
+    },
+    {
+      "en": "Who’s most likely to become famous?",
+      "ar": "مين أكتر واحد ممكن يبقى مشهور؟"
+    },
+    {
+      "en": "Who’s most likely to try the spiciest food?",
+      "ar": "مين أكتر واحد يجرب أحرّ أكلة؟"
+    },
+    {
+      "en": "Who’s most likely to make friends with a stranger?",
+      "ar": "مين أكتر واحد يصاحب حد غريب؟"
+    },
+    {
+      "en": "Who’s most likely to pack way too much?",
+      "ar": "مين أكتر واحد بياخد شنط كتير زيادة؟"
+    },
+    {
+      "en": "Who’s most likely to wake up everyone early?",
+      "ar": "مين أكتر واحد يصحّي الكل بدري؟"
+    },
+    {
+      "en": "Who’s most likely to cry at a movie?",
+      "ar": "مين أكتر واحد يعيّط في فيلم؟"
+    },
+    {
+      "en": "Who’s most likely to forget someone’s birthday?",
+      "ar": "مين أكتر واحد ينسى عيد ميلاد حد؟"
+    },
+    {
+      "en": "Who’s most likely to spend all their money on day one?",
+      "ar": "مين أكتر واحد يصرف فلوسه كلها أول يوم؟"
+    },
+    {
+      "en": "Who’s most likely to win a cooking contest?",
+      "ar": "مين أكتر واحد يكسب مسابقة طبخ؟"
+    },
+    {
+      "en": "Who’s most likely to start dancing first at a wedding?",
+      "ar": "مين أكتر واحد يبدأ يرقص الأول في الفرح؟"
+    },
+    {
+      "en": "Who’s most likely to lose their phone?",
+      "ar": "مين أكتر واحد يضيّع موبايله؟"
+    },
+    {
+      "en": "Who’s most likely to plan the whole trip?",
+      "ar": "مين أكتر واحد يخطط الرحلة كلها؟"
+    },
+    {
+      "en": "Who’s most likely to laugh at the wrong moment?",
+      "ar": "مين أكتر واحد يضحك في وقت غلط؟"
+    },
+    {
+      "en": "Who’s most likely to adopt ten cats?",
+      "ar": "مين أكتر واحد يربي عشر قطط؟"
+    },
+    {
+      "en": "Who’s most likely to talk their way out of trouble?",
+      "ar": "مين أكتر واحد يطلع من أي مشكلة بالكلام؟"
+    },
+    {
+      "en": "Who’s most likely to eat someone else’s food?",
+      "ar": "مين أكتر واحد ياكل من أكل غيره؟"
+    },
+    {
+      "en": "Who’s most likely to become a millionaire?",
+      "ar": "مين أكتر واحد يبقى مليونير؟"
+    },
+    {
+      "en": "Who’s most likely to get sunburnt?",
+      "ar": "مين أكتر واحد يتحرق من الشمس؟"
+    },
+    {
+      "en": "Who’s most likely to sing in the car?",
+      "ar": "مين أكتر واحد يغني في العربية؟"
+    },
+    {
+      "en": "Who’s most likely to say “five more minutes”?",
+      "ar": "مين أكتر واحد يقول «خمس دقايق كمان»؟"
+    },
+    {
+      "en": "Who’s most likely to know the best restaurant in town?",
+      "ar": "مين أكتر واحد يعرف أحسن مطعم في البلد؟"
+    },
+    {
+      "en": "Who’s most likely to fix anything that breaks?",
+      "ar": "مين أكتر واحد يصلّح أي حاجة تبوظ؟"
+    },
+    {
+      "en": "Who’s most likely to answer a call during a movie?",
+      "ar": "مين أكتر واحد يرد على تليفون وسط الفيلم؟"
+    },
+    {
+      "en": "Who’s most likely to be the best tour guide?",
+      "ar": "مين أكتر واحد ينفع مرشد سياحي؟"
+    },
+    {
+      "en": "Who’s most likely to cheer everyone up?",
+      "ar": "مين أكتر واحد يفرّح الكل؟"
+    },
+    {
+      "en": "Who’s most likely to start a business?",
+      "ar": "مين أكتر واحد يعمل مشروع خاص؟"
+    },
+    {
+      "en": "Who’s most likely to forget where they parked?",
+      "ar": "مين أكتر واحد ينسى ركن العربية فين؟"
+    },
+    {
+      "en": "Who’s most likely to win at Ludo?",
+      "ar": "مين أكتر واحد يكسب في الليدو؟"
+    },
+    {
+      "en": "Who’s most likely to cook for everyone?",
+      "ar": "مين أكتر واحد يطبخ للكل؟"
+    },
+    {
+      "en": "Who’s most likely to have the most unread messages?",
+      "ar": "مين أكتر واحد عنده رسايل مش مقروءة كتير؟"
+    },
+    {
+      "en": "Who’s most likely to be first in line for a new phone?",
+      "ar": "مين أكتر واحد يقف أول الطابور لموبايل جديد؟"
+    },
+    {
+      "en": "Who’s most likely to remember every detail of this trip?",
+      "ar": "مين أكتر واحد هيفتكر كل تفاصيل الرحلة؟"
+    },
+    {
+      "en": "Who’s most likely to say yes to any adventure?",
+      "ar": "مين أكتر واحد يوافق على أي مغامرة؟"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "schema": 1,
+  "id": "words-food",
+  "version": 1,
+  "kind": "words",
+  "name": {
+    "en": "Food & drinks",
+    "ar": "أكل ومشروبات"
+  },
+  "emoji": "🍽️",
+  "oddOneOut": true,
+  "items": [
+    {
+      "en": "Pizza",
+      "ar": "بيتزا"
+    },
+    {
+      "en": "Burger",
+      "ar": "برجر"
+    },
+    {
+      "en": "Shawarma",
+      "ar": "شاورما"
+    },
+    {
+      "en": "Sushi",
+      "ar": "سوشي"
+    },
+    {
+      "en": "Pasta",
+      "ar": "مكرونة"
+    },
+    {
+      "en": "Falafel",
+      "ar": "فلافل"
+    },
+    {
+      "en": "Ice cream",
+      "ar": "آيس كريم"
+    },
+    {
+      "en": "Pancakes",
+      "ar": "بان كيك"
+    },
+    {
+      "en": "Mango juice",
+      "ar": "عصير مانجو"
+    },
+    {
+      "en": "Popcorn",
+      "ar": "فشار"
+    },
+    {
+      "en": "Fried chicken",
+      "ar": "فراخ مقلية"
+    },
+    {
+      "en": "Chocolate cake",
+      "ar": "كيكة شوكولاتة"
+    },
+    {
+      "en": "Hummus",
+      "ar": "حمص"
+    },
+    {
+      "en": "Grilled fish",
+      "ar": "سمك مشوي"
+    },
+    {
+      "en": "Kebab",
+      "ar": "كباب"
+    },
+    {
+      "en": "Watermelon",
+      "ar": "بطيخ"
+    },
+    {
+      "en": "Dates",
+      "ar": "تمر"
+    },
+    {
+      "en": "Croissant",
+      "ar": "كرواسون"
+    },
+    {
+      "en": "Tea with mint",
+      "ar": "شاي بالنعناع"
+    },
+    {
+      "en": "Rice pudding",
+      "ar": "أرز باللبن"
+    },
+    {
+      "en": "Lentil soup",
+      "ar": "شوربة عدس"
+    },
+    {
+      "en": "Omelette",
+      "ar": "أومليت"
+    },
+    {
+      "en": "Fries",
+      "ar": "بطاطس محمرة"
+    },
+    {
+      "en": "Donut",
+      "ar": "دونات"
+    },
+    {
+      "en": "Strawberries",
+      "ar": "فراولة"
+    },
+    {
+      "en": "Cheese sandwich",
+      "ar": "ساندوتش جبنة"
+    },
+    {
+      "en": "Lemonade",
+      "ar": "ليمونادة"
+    },
+    {
+      "en": "Noodles",
+      "ar": "نودلز"
+    }
+  ]
+}

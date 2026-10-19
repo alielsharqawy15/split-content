@@ -1,0 +1,80 @@
+{
+  "schema": 1,
+  "packs": [
+    {
+      "id": "words-places",
+      "version": 1,
+      "file": "packs/words-places.json"
+    },
+    {
+      "id": "words-food",
+      "version": 1,
+      "file": "packs/words-food.json"
+    },
+    {
+      "id": "words-egyptian-food",
+      "version": 1,
+      "file": "packs/words-egyptian-food.json"
+    },
+    {
+      "id": "words-jobs",
+      "version": 1,
+      "file": "packs/words-jobs.json"
+    },
+    {
+      "id": "words-animals",
+      "version": 1,
+      "file": "packs/words-animals.json"
+    },
+    {
+      "id": "words-home",
+      "version": 1,
+      "file": "packs/words-home.json"
+    },
+    {
+      "id": "words-sports",
+      "version": 1,
+      "file": "packs/words-sports.json"
+    },
+    {
+      "id": "words-countries",
+      "version": 1,
+      "file": "packs/words-countries.json"
+    },
+    {
+      "id": "words-landmarks",
+      "version": 1,
+      "file": "packs/words-landmarks.json"
+    },
+    {
+      "id": "words-footballers",
+      "version": 1,
+      "file": "packs/words-footballers.json"
+    },
+    {
+      "id": "words-actions",
+      "version": 1,
+      "file": "packs/words-actions.json"
+    },
+    {
+      "id": "words-movies",
+      "version": 1,
+      "file": "packs/words-movies.json"
+    },
+    {
+      "id": "likely-core",
+      "version": 1,
+      "file": "packs/likely-core.json"
+    },
+    {
+      "id": "taboo-core",
+      "version": 1,
+      "file": "packs/taboo-core.json"
+    },
+    {
+      "id": "ideas-core",
+      "version": 1,
+      "file": "packs/ideas-core.json"
+    }
+  ]
+}

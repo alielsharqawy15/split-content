@@ -1,0 +1,134 @@
+{
+  "schema": 1,
+  "id": "words-places",
+  "version": 1,
+  "kind": "words",
+  "name": {
+    "en": "Places",
+    "ar": "أماكن"
+  },
+  "emoji": "📍",
+  "oddOneOut": true,
+  "items": [
+    {
+      "en": "Airport",
+      "ar": "مطار"
+    },
+    {
+      "en": "Beach",
+      "ar": "شاطئ"
+    },
+    {
+      "en": "Hospital",
+      "ar": "مستشفى"
+    },
+    {
+      "en": "School",
+      "ar": "مدرسة"
+    },
+    {
+      "en": "Cinema",
+      "ar": "سينما"
+    },
+    {
+      "en": "Supermarket",
+      "ar": "سوبر ماركت"
+    },
+    {
+      "en": "Library",
+      "ar": "مكتبة"
+    },
+    {
+      "en": "Museum",
+      "ar": "متحف"
+    },
+    {
+      "en": "Zoo",
+      "ar": "حديقة حيوان"
+    },
+    {
+      "en": "Bakery",
+      "ar": "مخبز"
+    },
+    {
+      "en": "Train station",
+      "ar": "محطة قطار"
+    },
+    {
+      "en": "Hotel",
+      "ar": "فندق"
+    },
+    {
+      "en": "Gym",
+      "ar": "جيم"
+    },
+    {
+      "en": "Restaurant",
+      "ar": "مطعم"
+    },
+    {
+      "en": "Pharmacy",
+      "ar": "صيدلية"
+    },
+    {
+      "en": "Football stadium",
+      "ar": "ملعب كرة"
+    },
+    {
+      "en": "Desert camp",
+      "ar": "مخيم صحراوي"
+    },
+    {
+      "en": "Swimming pool",
+      "ar": "حمام سباحة"
+    },
+    {
+      "en": "Bank",
+      "ar": "بنك"
+    },
+    {
+      "en": "Post office",
+      "ar": "مكتب بريد"
+    },
+    {
+      "en": "Barber shop",
+      "ar": "محل حلاقة"
+    },
+    {
+      "en": "Amusement park",
+      "ar": "ملاهي"
+    },
+    {
+      "en": "Mall",
+      "ar": "مول"
+    },
+    {
+      "en": "Farm",
+      "ar": "مزرعة"
+    },
+    {
+      "en": "Park",
+      "ar": "حديقة"
+    },
+    {
+      "en": "Police station",
+      "ar": "قسم شرطة"
+    },
+    {
+      "en": "Fire station",
+      "ar": "مطافي"
+    },
+    {
+      "en": "Car wash",
+      "ar": "مغسلة سيارات"
+    },
+    {
+      "en": "Bookshop",
+      "ar": "محل كتب"
+    },
+    {
+      "en": "Coffee shop",
+      "ar": "كافيه"
+    }
+  ]
+}

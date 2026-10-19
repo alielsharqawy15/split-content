@@ -1,0 +1,98 @@
+{
+  "schema": 1,
+  "id": "words-actions",
+  "version": 1,
+  "kind": "words",
+  "name": {
+    "en": "Actions",
+    "ar": "تمثيل"
+  },
+  "emoji": "🎭",
+  "oddOneOut": false,
+  "items": [
+    {
+      "en": "Brushing teeth",
+      "ar": "يغسل أسنانه"
+    },
+    {
+      "en": "Driving a car",
+      "ar": "يسوق عربية"
+    },
+    {
+      "en": "Taking a selfie",
+      "ar": "ياخد سيلفي"
+    },
+    {
+      "en": "Cooking rice",
+      "ar": "يطبخ رز"
+    },
+    {
+      "en": "Changing a tyre",
+      "ar": "يغير كاوتش"
+    },
+    {
+      "en": "Playing guitar",
+      "ar": "يعزف جيتار"
+    },
+    {
+      "en": "Swimming",
+      "ar": "يعوم"
+    },
+    {
+      "en": "Sleeping",
+      "ar": "نايم"
+    },
+    {
+      "en": "Dancing",
+      "ar": "يرقص"
+    },
+    {
+      "en": "Riding a camel",
+      "ar": "يركب جمل"
+    },
+    {
+      "en": "Fishing",
+      "ar": "يصطاد سمك"
+    },
+    {
+      "en": "Painting a wall",
+      "ar": "يدهن حيطة"
+    },
+    {
+      "en": "Typing on a laptop",
+      "ar": "يكتب على لابتوب"
+    },
+    {
+      "en": "Climbing a mountain",
+      "ar": "يطلع جبل"
+    },
+    {
+      "en": "Making tea",
+      "ar": "يعمل شاي"
+    },
+    {
+      "en": "Ironing clothes",
+      "ar": "يكوي هدوم"
+    },
+    {
+      "en": "Bowling",
+      "ar": "يلعب بولينج"
+    },
+    {
+      "en": "Lifting weights",
+      "ar": "يرفع أثقال"
+    },
+    {
+      "en": "Walking a dog",
+      "ar": "يمشي كلب"
+    },
+    {
+      "en": "Flying a kite",
+      "ar": "يطير طيارة ورق"
+    },
+    {
+      "en": "Eating spaghetti",
+      "ar": "ياكل سباجيتي"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "schema": 1,
+  "id": "words-egyptian-food",
+  "version": 1,
+  "kind": "words",
+  "name": {
+    "en": "Egyptian food",
+    "ar": "أكل مصري"
+  },
+  "emoji": "🇪🇬",
+  "oddOneOut": true,
+  "items": [
+    {
+      "en": "Koshari",
+      "ar": "كشري"
+    },
+    {
+      "en": "Molokhia",
+      "ar": "ملوخية"
+    },
+    {
+      "en": "Ful medames",
+      "ar": "فول مدمس"
+    },
+    {
+      "en": "Ta'ameya",
+      "ar": "طعمية"
+    },
+    {
+      "en": "Feteer meshaltet",
+      "ar": "فطير مشلتت"
+    },
+    {
+      "en": "Mahshi",
+      "ar": "محشي"
+    },
+    {
+      "en": "Hawawshi",
+      "ar": "حواوشي"
+    },
+    {
+      "en": "Om Ali",
+      "ar": "أم علي"
+    },
+    {
+      "en": "Basbousa",
+      "ar": "بسبوسة"
+    },
+    {
+      "en": "Konafa",
+      "ar": "كنافة"
+    },
+    {
+      "en": "Fattah",
+      "ar": "فتة"
+    },
+    {
+      "en": "Roz bel laban",
+      "ar": "رز بلبن"
+    },
+    {
+      "en": "Sobia",
+      "ar": "سوبيا"
+    },
+    {
+      "en": "Qatayef",
+      "ar": "قطايف"
+    },
+    {
+      "en": "Macarona bechamel",
+      "ar": "مكرونة بشاميل"
+    },
+    {
+      "en": "Kofta",
+      "ar": "كفتة"
+    },
+    {
+      "en": "Sugarcane juice",
+      "ar": "عصير قصب"
+    },
+    {
+      "en": "Liver sandwich",
+      "ar": "سندوتش كبدة"
+    },
+    {
+      "en": "Feseekh",
+      "ar": "فسيخ"
+    },
+    {
+      "en": "Aish baladi",
+      "ar": "عيش بلدي"
+    }
+  ]
+}
