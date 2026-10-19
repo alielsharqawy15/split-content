@@ -3,10 +3,10 @@
 Word decks, "Most likely to" prompts, Taboo cards and Odd One Out question
 ideas for the party games in the Split app (قسّمها), in English and Arabic.
 
-The app downloads this repo through jsDelivr:
+The app downloads this repo straight from GitHub:
 
 ```
-https://cdn.jsdelivr.net/gh/alielsharqawy15/split-content@main/manifest.json
+https://raw.githubusercontent.com/alielsharqawy15/split-content/main/manifest.json
 ```
 
 It checks `manifest.json` when it starts (at most every 6 hours) and from
@@ -22,11 +22,10 @@ needed to ship new words.**
    Packs whose version didn't change are not downloaded again.
 3. Validate: `python3 scripts/validate.py` (also runs automatically on every
    push — a red ❌ on GitHub means the app would reject that pack).
-4. Commit and push to `main`.
-5. jsDelivr caches `@main` for up to 12 hours. To publish immediately, open
-   these purge links in a browser:
-   - `https://purge.jsdelivr.net/gh/alielsharqawy15/split-content@main/manifest.json`
-   - `https://purge.jsdelivr.net/gh/alielsharqawy15/split-content@main/packs/<pack-id>.json`
+4. Commit and push to `main`. GitHub serves the change within about
+   5 minutes; phones pick it up on their next check (app start, at most every
+   6 hours, or **Check for new content**). If the manifest arrives before a
+   pack file has refreshed, the app skips that pack and gets it next time.
 
 Before an app release, copy this repo into the app so new installs start up
 to date: from the app repo run `tool/sync_content.sh`.
