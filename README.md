@@ -1,7 +1,7 @@
-# Split — game content
+# Lamma (لمّة) — game content
 
 Word decks, "Most likely to" prompts, Taboo cards and Odd One Out question
-ideas for the party games in the Split app (قسّمها), in English and Arabic.
+ideas for the party games in the Lamma app (لمّة), in English and Arabic.
 
 The app downloads this repo straight from GitHub:
 
